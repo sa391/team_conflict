@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r}
-plot(rnorm(10),rnorm(10))
+plot(rnorm(10),rnorm(10)) #comment
 ```
 
 ```{r}
