@@ -1,0 +1,15 @@
+---
+title: "team_stats"
+author: "Sarah Bartley"
+date: "2/5/2021"
+output: html_document
+---
+
+```{r}
+plot(rnorm(10),rnorm(10))
+```
+
+```{r}
+plot(1:10,10:1)
+```
+
